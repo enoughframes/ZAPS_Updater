@@ -1,6 +1,6 @@
 # ZAPS_Updater
 Windows and macOS updater for ZAPS module ( Winter Modular and Plankton Electronics)
-Winter Modular - Plankton Electronics
+
 ZAPS Update Procedure
 
 IMPORTANT: ZAPS must be continuously powered during the update process. Place ZAPS over a non conductive surface (plastic, rubber…) or attach it to the synth as usual.  Make sure the USB cable and ZAPS are steady during all the update process. A loss of power, a short-circuit with a conductive surface or a movement in the usb cable while updating will ‘brick’ the ZAPS.
