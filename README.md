@@ -7,9 +7,7 @@ IMPORTANT: ZAPS must be continuously powered during the update process. Place ZA
 
 Some Windows users have encountered problems updating ZAPS, please make sure that your antivirus program don’t stop the updater, letting the antivirus finishing the updater check or pausing the antivirus while executing the updater.
 
-Go to github repository https://github.com/enoughframes/ZAPS_Updater
- and download the updater using the green button
-
+Download the updater using the green button
 Unzip the file and choose your operating system.
 Connect the module to the power bus and power up your system.
 Connect a micro USB cable from the computer to ZAPS (upper  side, under the VCO  2 controls).
