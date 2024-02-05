@@ -1,0 +1,18 @@
+New features and improvements:
+
+- New 'Randomize' templates for creating Sounds and Banks: Bass drum 1, Bass drum 2, Snare drum, Low drum toms, FM percussion, FM and AM percussion, Glass AM, Pitched FM tones, High tones, Multi-drum 1, Multi-drum 2, Chaos, Dirty 1, Dirty 2, Retrigger envelope 1, Retrigger envelope 2, and Full set template (for Banks).
+- Simultaneous CV IN control for pitch 1 & 2: You can now control both oscilators with just one CV source.
+- New Trigger delay setting: for all the Gate and CV sources that change the CV after rising the gate, we have added a configurable trigger delay, so once the trigger is received we wait x ms to read the CV.
+- Screen saver:  We added a new adjustable screen and energy saver following user requests.
+- Now it's possible to randomize a slots or banks via CV IN trigger.
+- Added CV in control for Retrigger time and Slope type.
+- Improved SLOT buttons behaviour in MUTE, now we show both muted slots and playing slots (with a more intense light)
+
+Bug fixes:
+
+- Fixed a bug where the HPF noise fader CV value was not being sent when it was assigned as an output.
+- Fixed a bug where the slope parameter was not responding well to random values.
+- CV in 'Morph to' bug fixed
+- Fixed a bug where the morph destination was no correctly reset after removing the cable from the cv input.
+- CV 6 input was not working with CV BANK Change.
+- Other minor bugs fixed.

@@ -1,0 +1,3 @@
+New features and improvements:
+
+- Control for faders and buttons LED intensity
